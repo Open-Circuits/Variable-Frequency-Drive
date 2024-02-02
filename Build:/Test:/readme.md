@@ -1,0 +1,2 @@
+- [HOW TO TEST IF A VFD ( Variable Frequency Drive ) IS BAD WITH A MULTIMETER](https://youtu.be/E3uB5DMoJAs)
+- [VFD Measurements: Measuring AC Line and DC bus Voltage](https://youtu.be/LaRr_SN0Wi0)
