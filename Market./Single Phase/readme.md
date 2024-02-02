@@ -1,0 +1,2 @@
+- [Simplest VFD In The World @wildcatwilly](https://youtu.be/FuO7AR4q1_E)
+- [Single phase VFD for single phase motor](https://youtu.be/jiVpJAY84MQ)
