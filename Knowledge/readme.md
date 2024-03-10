@@ -1,4 +1,4 @@
 - [What Types of Motors Can Be Used with VFDs?](https://youtu.be/jIbQx7RCCw8)
 - [How to Size a VFD for 3 Phase Motors](https://youtu.be/gFYKKFOrLN8)
 - [How to wire a VFD / variable frequency drive](https://youtu.be/nL-VSw-r4DY)
-- 
+- [VFD 101 Basics](https://youtu.be/YA-6TNhFsE4)
